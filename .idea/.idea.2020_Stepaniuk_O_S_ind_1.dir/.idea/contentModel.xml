@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lyeno\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lyeno\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lyeno\Desktop\2020_Stepaniuk_O_S_ind_1\2020_Stepaniuk_O_S_ind_1" t="IncludeRecursive">
+      <e p="Add.cs" t="Include" />
+      <e p="ArgX.cs" t="Include" />
+      <e p="AX.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BinaryFunction.cs" t="Include" />
+      <e p="CalculationMethods.cs" t="Include" />
+      <e p="Const.cs" t="Include" />
+      <e p="Cos.cs" t="Include" />
+      <e p="CTan.cs" t="Include" />
+      <e p="Div.cs" t="Include" />
+      <e p="Exp.cs" t="Include" />
+      <e p="Function.cs" t="Include" />
+      <e p="Function.csproj" t="IncludeRecursive" />
+      <e p="Ln.cs" t="Include" />
+      <e p="Mult.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Polinom.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Sin.cs" t="Include" />
+      <e p="Substract.cs" t="Include" />
+      <e p="Tan.cs" t="Include" />
+      <e p="UnaryFunction.cs" t="Include" />
+      <e p="XmlUtils.cs" t="Include" />
+    </e>
+  </component>
+</project>
